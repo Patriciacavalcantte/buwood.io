@@ -24,10 +24,10 @@ a {
   background-size: cover;
 
 }
-.mt-0 {
-  margin-top: 0 !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
+.nossa_historia {
+  max-width: 500px;
+  max-height: 500px;
+  border-radius: 5%;
 }
 @media (max-width: 767px) {
   body {
